@@ -1,3 +1,3 @@
 deploy
 
-https://ignite-shop-ncv26g47l-betimvpp.vercel.app
+https://ignite-shop-lake.vercel.app
